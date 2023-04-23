@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS II</title>
+    <link rel="stylesheet" href="exercício 2.css"> 
+<header>
+    <div class="header-img"> 
+    <h1>
+        <img src="imagens/Receitas__1_-removebg-preview.png" alt="logo" id="logo" style="height: 400px;"> 
+    </h1>
+ </div> 
+           
+</header>
+<br></br>
+<br></br>
+</head>
+
+<body>
+    <center>
+        <br>
+   <p>Receitas de bolo pra comer sem culpa</p>
+    <br>
+<br>
+    <h1>Bolo de banana com aveia fácil</h1><br></br>
+    <iframe width="600" height="350" src="https://www.youtube.com/embed/Nh97abgLldE" title="Bolo de banana com aveia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></br>
+<b>Ingredientes:</b><br></br>
+<font color="green">5 bananas (reserve uma para decorar)<br>
+4 ovos<br>
+1 xícara de chá de açúcar demerara<br>
+1/2 xícara de chá de óleo<br>
+1 colher de sopa de canela<br>
+1 colher de sopa de fermento em pó<br>
+200 gramas de aveia em flocos finos<br> </font>
+<font color="blue">Opcional: castanha de caju ou do pará picadinha e uvas passas<br></font>
+
+</br>
+
+<b>Modo de preparo:</b><br></br>
+
+No liquidificador, bata os ovos, o óleo, o açúcar e 4 das 5 bananas.<br> 
+Deixe uma para colocar picadinha na massa;<br> 
+Coloque essa mistura em uma tigela e acrescente a aveia, a canela, o<br>
+fermento e 1 banana picada. Misture delicadamente;<br>
+Leve para assar em uma forma untada com manteiga ou óleo e polvilhada<br>
+com açúcar, em um forno preaquecido a 180ºC, por 40 minutos ou até dourar;<br>
+Em seguida, coloque a outra metade da banana e o restante do iogurte.<br> 
+Espere amornar e desenforme. Agora é só servir, bom apetite!<br></br>
+<em>Tempo de treparo: 30 min.</em>
+    <br></br>
+</p1>
+<br></br>
+<br>
+  <h2>Bolo de milho sem trigo e sem ovo</h2><br></br>
+    <iframe width="600" height="350" src="https://www.youtube.com/embed/C6DiNk3vGls" title="BOLO DE MILHO FIT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></br>
+    <b> Ingredientes:</b><br></br>
+
+    <font color="green">2 latas (280g cada) de milho verde sem a água, lavdo e escorrido<br>
+1 lata de leite desnatado ( ou leite de coco – usar a mesma lata do milho)<br>
+½ xícara (90g) de açúcar demerara ( ou adoçante, esta receita não fica muito doce)<br>
+1/3 xícara (80ml) de óleo de girassol ( ou óleo de coco) <br>
+½ xícara de farinha de milho flocos ( usei a Kimilho da yoki, pode ser milharina também)<br>
+2 colheres (sp) coco ralado (opcional)<br>
+1 colher (sp) fermento em pó<br></font>
+<font color="blue">Pode colocar sementes de erva –doce (opcional)<br></br></font>
+
+<b>Modo de preparo:</b><br></br>
+Bater todos os ingredientes no liquidificador por uns 8 minutos deixando por último o fermento em pó<br>
+e bater rapidamente apenas para misturar a massa.<br> 
+Unte uma forma 18x18 com óleo de coco e farinha de milho.<br>
+Leve ao forno pré-aquecido (180graus) entre 45mi. a  1 hora. Vai depender muito do seu forno,<br> 
+o bolo tem que estar com a laterais douradas.<br></br>
+DICA: Deixe o bolo esfriar bem e leve para a geladeira por mais ou menos 1 hora para depois cortar e servir, 
+pois se cortar ainda quente ele estará mole..<br></br>
+GELADEIRA: manter por até uma semana<br>
+CONGELAR: não<br>
+RENDE: 12 pedaços pequenos<br>
+<em>Tempo de treparo: 30 min.</em>
+</p2><br></br>
+
+<br>
+    <h3>Bolo de fubá sem açúcar</h3><br></br>
+    <iframe width="600" height="350" src="https://www.youtube.com/embed/eIKM6tLRo_Y" title="Bolo de fubá SEM AÇÚCAR❤SEM TRIGO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></br>
+    <b> Ingredientes:</b><br></br>
+    <font color="green">2 bananas grandes bem maduras (210g)<br>
+    3 ovos<br>
+    240ml de leite(preferência desnatado)<br>
+    80ml óleo da sua preferência (1 dedo)<br>
+    1 copo cheio de amido de milho<br>
+    2 copos de fubá ou farinha de milho fina<br>
+    1 colher sopa fermento em pó (bater só pra misturar)<br></br></font>
+
+
+    <b>Modo de preparo:</b><br></br>
+    Bater a banana e os ovos por 2 min no liquidificador<br>
+    Adicionar o leite e o óleo e bater.<br> 
+    Em seguida, adcionar o amido de milho e o fubá ou farinha de milho fina e bater mais  2 min. <br>
+botar o fermento e bater só para misturar.<br>
+    Untar uma forma de 21 cm de diâmetro e colocar para assar em forno pré aquecido,<br>
+Por 35 minutos em 200 graus(nos últimos 10 min levantar pra 230 ou 250 graus, para dourar)
+<br></br>
+<em>Tempo de treparo: 30 min.</em>
+    <br></br>
+</p3> 
+
+<br>
+<h4>Bolo de cenoura low carb e sem lactose</h4><br></br>
+    <img width="500" height="350" src="imagens/7.png" title="Bolo de cenoura low carb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></img><br></br>
+    <b>Ingredientes:</b><br></br>
+    <font color="green">3 ovos<br>
+    3 cenouras picadas<br>
+    2 colheres de sopa de óleo de coco<br>
+    100 ml de leite de coco<br>
+    1 xícara de farinha de amêndoas<br>
+    ⅓ de xícara de adoçante<br>
+    1 colher de sopa de psyllium<br></font>
+    <font color="blue"><s>1 colher de café de açafrão (opcional)</s><br></font>
+    <font color="green">1 colher de chá de fermento químico</font>
+<br></br>
+
+<b>ingredientes para a cobertura</b><br></br>
+<font color="green">2 colheres de sopa de cacau em pó<br>
+1 colher de sopa de óleo de coco<br>
+100 ml de leite de coco<br>
+3 colheres de sopa de adoçante<br></br></font>
+
+<b>Modo de preparo da massa:</b><br></br>
+    Misture todos os ingredientes líquidos junto com as cenouras até obter uma massa homogênea<br>
+    Depois acrescente os ingredientes secos, deixando o fermento por último<br> 
+    Despeje a massa sobre uma forma untada com óleo de coco e leve para assar por cerca de 30 à 40 
+    minutos em forno à 180º graus.<br></br>
+
+    <b>Modo de preparo da calda:</b><br></br>
+
+    Junte tudo em uma panela e leve ao fogo<br>
+    Misture bem até iniciar a fervura<br>
+    Após isso, cozinhe por 5 minutos e está pronto<br>
+    Depois disso, basta derramar a calda sobre o bolo e servir!
+    <br></br>
+    <em>Tempo de treparo: 30 min.</em>
+    <br></br>
+</p4>
+<p5>
+    <Form>
+        <div class="container-login">
+            <div class="cadastro">
+                <h2 class="titulo">Quer receber receitas saldáveis?
+                    Faça seu cadastro!</h2><br></br>
+                <form action="">
+        <label for="name">
+            <span>Nome</span>
+            <input type="text" id="name" name="name">
+        </label><br></br>
+    
+        <label for="email">
+            <span>E-mail</span>
+            <input type="email" id="email" name="email">
+        </label><br></br>
+    
+       <label for="objetivo">
+            <span>Qual seu objetivo?</span><br>
+            <br>
+            <select>
+                <option value="massa">Ganhar massa</option>
+                <option value="defcite">Emagrecer</option>
+            </select><br></br>
+    
+            <a href="#"><button class="btn btn-cadastro"> Cadastre-se </button></a> 
+        </div>
+    </Form>
+    <br></br>
+        </p5>
+        <center>
+            <footer>
+                <div class="footer-logo">
+                    <img src="imagens/Receitas__1_-removebg-preview.png" alt="logo" height="300px">
+                </div>
+                <div id="redes" class="footer-redes">
+                    <h5>Nossas Redes</h5>
+                    <a href="https://www.instagram.com/soulcodeacademy/" target="_blank"><img class="icon-rede" src="imagens/instagran.jpg"  alt="Instagram" style="height: 15px;"></a>
+                    <a href="https://www.linkedin.com/company/soulcodeacademy/" target="_blank"><img class="icon-rede" src="imagens/logo-linkedin-icon-4096.png" alt=" LinkedIn" style="height: 15px;"></a>
+                    <a href="https://soulcode.com/" target="_blank"><img class="icon-rede" src="imagens/icone rede.png" alt=" LinkedIn" style="height: 15px;"></a>
+                </div>     
+            </footer>
+            </center>
+        </body>
+        </html>
