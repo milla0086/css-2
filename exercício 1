@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS II</title>
+    <link rel="stylesheet" href="exercicio 1.css">
+<header>
+    <center>
+<h1 alt="cabeçalho">Receitas Fitnes</h1>
+    </center>
+</header>
+<br></br>
+<br></br>
+</head>
+<div></div>
+<center>
+    <h2>Overnight oats: 5 receitas deliciosas para emagrecer</h2>
+    <br>
+<p1>
+1. Overnight de Banana e Morango<br></br>
+<img src="imagens/2.png" alt="morango" style="height: 300px;"><br></br>
+Ingredientes:<br></br>
+
+
+2 colheres de sopa de aveia<br>
+6 colheres de sopa de leite desnatado<br>
+1 banana<br>
+3 morangos<br>
+1 iogurte grego light<br>
+1 colher de sopa de chia<br>
+1 pote de vidro limpo e com tampa<br></br>
+
+
+Modo de preparo:<br></br>
+
+
+Misturar a aveia e o leite e despejar no fundo do pote de vidro.<br>
+Cubra com metade da banana picada e 1 morango. <br>
+Na próxima camada, adicione metade do iogurte misturado com a chia. <br>
+Em seguida, coloque a outra metade da banana e o restante do iogurte.<br>
+Por último, adicione os outros dois morango picados.<br>
+Deixar descansar na geladeira de um dia para o outro.
+</p1>
+<br></br>
+<p2>
+        2. Overnight de Pasta de Amendoim<br></br>
+        <img src="imagens/3.png" alt="amendoin" style="height: 300px;"><br></br>
+        Ingredientes:<br></br>
+
+
+120 ml leite de amêndoas ou castanhas<br>
+1 colher de sopa de sementes de chia<br>
+2 colheres de sopa de pasta de amendoim<br>
+1 colher de sopa de açúcar demerara ou mascavo<br>
+3 colheres de sopa de aveia<br>
+1 banana<br></br>
+
+
+Modo de preparo:<br></br>
+No fundo do pote de vidro, misturar o leite, a chia, a pasta de amendoim, o açúcar e
+a aveia. <br>
+Deixar na geladeira durante toda a noite e adicionar a banana picada ou
+amassada no dia <br>seguinte,misturando com o restante dos ingredientes. <br>
+Deixar descansar na geladeira de um dia para o outro.
+    </p2><br></br>
+
+
+    <p3>
+        3. Overnight de Coco e Granola<br></br>
+        <img src="imagens/4.png" alt="coco" style="height: 300px;"><br></br>
+        Ingredientes:<br></br>
+        2 colheres de sopa de aveia<br>
+        6 colheres de sopa de leite desnatado<br>
+        1 iogurte grego light<br>
+        3 colheres de manga em cubos<br>
+        2 colheres de sopa de granola<br>
+        1 colher de sopa de coco ralado<br></br>
+
+
+        Modo de preparo:<br></br>
+        Misturar a aveia e o leite e despejar no fundo do pote de vidro. <br>
+        Cobrir com 1 colher de manga e de coco ralado.<br>
+        Em seguida, colocar metade do iogurte e cobrir com o restante da manga. <br>
+        Adicionar a outra metade do iogurte e cobrir com a granola.<br>
+        Deixar descansar na geladeira de um dia para o outro.<br></br>
+    </p3>
+
+
+    <p4>
+        4. Overnight de Kiwi e Castanha<br></br>
+        <img src="imagens/5.png" alt="kiwi" style="height: 300px;"><br></br>
+        Ingredientes:<br></br>
+        2 colheres de sopa de aveia<br>
+        6 colheres de sopa de leite de coco<br>
+        1 iogurte grego light<br>
+        2 kiwis picados<br>
+        2 colheres de sopa de castanha picada<br></br>
+        Modo de preparo:<br></br>
+        Misturar a aveia e o leite e despejar no fundo do pote de vidro.<br>
+        Cobrir com 1 kiwi picado e adicionar metade do iogurte.<br>
+        Em seguida, colocar 1 colher de sopa de castanha picada e adicionar o restante do iogurte.<br>
+        Na última camada, colocar o outro kiwi e o restante das castanhas. <br>
+        Deixar descansar na geladeira de um dia para o outro.<br></br>
+    </p4>
+
+
+    <br>
+        5. Overnight Banoffe<br></br>
+        <img src="imagens/overnight oats doce de leite.png" alt="banoffe" style="height: 300px;"><br></br>
+        Ingredientes:<br></br>
+        30g aveia em flocos<br>
+        1 colher de sopa de chia<br>
+        1 scoop de proteína<br>
+        1/2 banana amassada<br>
+        50ml de leite desnatado<br>
+        20g de doce de leite<br>
+        25g de leite em pó<br></br>
+        Modo de preparo:<br></br>
+        Misturar a aveia, a chia, a proteínaa banana amassada e o leite e despejar no fundo do
+        pote de vidro. <br>
+        Cobrir com a outra metade da banana e adicionar doce de leite.<br>
+        Deixar descansar na geladeira por no mínimo 4 horas.<br></br>
+    </p5>
+
+
+    <p>
+<Form>
+    <div class="container-login">
+        <div class="cadastro">
+            <h2 class="titulo">Quer receber receitas saldáveis?
+                Faça seu cadastro!</h2><br></br>
+            <form action="">
+    <label for="name">
+        <span>Nome</span>
+        <input type="text" id="name" name="name">
+    </label><br></br>
+
+
+    <label for="email">
+        <span>E-mail</span>
+        <input type="email" id="email" name="email">
+    </label><br></br>
+
+
+   <label for="objetivo">
+        <span>Qual seu objetivo?</span><br>
+        <br>
+        <select>
+            <option value="massa">Ganhar massa</option>
+            <option value="defcite">Emagrecer</option>
+        </select><br></br>
+
+
+        <a href="#"><button class="btn btn-cadastro"> Cadastre-se </button></a>
+    </div>
+</Form>
+<br></br>
+    </p>
+</center>
+    <center>
+    <footer>
+        <div class="footer-logo">
+            <img src="imagens/logo receitas fitness.png" alt="logo" height="300px">
+        </div>
+        <div id="redes" class="footer-redes">
+            <h2>Nossas Redes</h2>
+            <a href="https://www.instagram.com/soulcodeacademy/" target="_blank"><img class="icon-rede" src="imagens/instagran.jpg"  alt="Instagram" style="height: 15px;"></a>
+            <a href="https://www.linkedin.com/company/soulcodeacademy/" target="_blank"><img class="icon-rede" src="imagens/logo-linkedin-icon-4096.png" alt=" LinkedIn" style="height: 15px;"></a>
+            <a href="https://soulcode.com/" target="_blank"><img class="icon-rede" src="imagens/icone rede.png" alt=" LinkedIn" style="height: 15px;"></a>
+        </div>    
+    </footer>
+    </center>
+</body>
+</html>
